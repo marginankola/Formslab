@@ -1,0 +1,48 @@
+{
+  "navigation": {
+    "createSurveyButton": "Create Survey",
+    "mySurveysButton": "My Surveys",
+    "settingsButton": "Settings",
+    "signOutButton": "Sign out",
+    "signInButton": "Sign in",
+
+    "pageTitles": {
+      "createSurvey": "Create new survey",
+      "editSurvey": "Edit survey",
+      "mySurveys": "My Surveys"
+    }
+  },
+  "coping": {
+    "copyingSucces": "Copied to clipboard",
+    "copyingError": "Copy failed",
+    "copyingNotSupported": "Clipboard not supported"
+  },
+  "surveyRemoving": {
+    "surveyDeleteSuccess": "Survey deleted successfully",
+    "surveyDeleteError": "Survey deleted successfully",
+    "modalContentFirst": "Are you sure you want to",
+    "modalContentSecond": "delete",
+    "modalContentThird": "this survey?",
+    "modalTitle": "Delete survey",
+    "modalDeleteButton": "Delete",
+    "modelCancelButton": "Cancel"
+  },
+  "shareSurveyModal": {
+    "title": "Share your survey",
+    "copyUrl": "Copy URL",
+    "cancelButton": "Cancel"
+  },
+  "surveyOptionsModal": {
+    "title": "Display options",
+    "OneQuestionPerStep": "One question per step",
+    "DisplayTitle": "Display title",
+    "HideProgressBar": "Hide progress bar"
+  },
+  "questionType": {
+    "question": "Question",
+    "emoji": "Emoji",
+    "input": "Input",
+    "choice": "Choice",
+    "rate": "Rate"
+  }
+}
