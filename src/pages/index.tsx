@@ -10,7 +10,7 @@ import withAnimation from 'shared/HOC/withAnimation';
 
 export async function getServerSideProps() {
   const repositoryData = await fetch(
-    'https://api.github.com/repos/Ryczko/Formslab'
+    'https://api.github.com/repos/marginankola/Formslab'
   ).then((res) => res.json());
 
   return {
@@ -42,7 +42,7 @@ function IndexPage({
 
         <div className="mb-16 flex flex-col space-y-2 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0">
           <ButtonLink
-            href="https://github.com/Ryczko/FormsLab"
+            href="https://github.com/marginankola/FormsLab"
             target="_blank"
             className="flex w-full items-center justify-center sm:w-[250px]"
             variant={ButtonVariant.PRIMARY}
